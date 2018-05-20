@@ -1,0 +1,11 @@
+{
+  "name": "fing-node",
+  "version": "1.0.0",
+  "main": "src/fing-node.js",
+  "repository": "https://github.com/matthewnitschke/fing-node.git",
+  "author": "Matthew <matthewcnitschke@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "is-root": "^2.0.0"
+  }
+}
