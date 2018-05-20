@@ -1,6 +1,6 @@
 {
   "name": "fing-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/fing-node.js",
   "repository": "https://github.com/matthewnitschke/fing-node.git",
   "author": "Matthew <matthewcnitschke@gmail.com>",
